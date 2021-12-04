@@ -4,3 +4,8 @@
 |             CSS            |             JS             |
 | :------------------------: | :------------------------: |
 | [Pomodoro Timer](css/day1) | [Pomodoro Timer](css/day1) |
+
+## Day 2 (December 2)
+|               CSS               |                           JS                            |
+|:-------------------------------:|:-------------------------------------------------------:|
+| [eCommerce component](css/day2) | I not found any materials on email, i'll add them later |
