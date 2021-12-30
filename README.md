@@ -35,3 +35,6 @@ Completed: **0 / 24** (0%)
 *  Day 9 — Image carousel
 [<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day9)
 [<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day9)
+*  Day 10 — Verification code form
+[<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day10)
+[<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day10)
