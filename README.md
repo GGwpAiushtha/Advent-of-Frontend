@@ -68,3 +68,6 @@ Completed: **0 / 24** (0%)
 *  Day 20 — Tabbed Component
 [<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day20)
 [<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day20)
+*  Day 21 — Simplified budget
+[<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day21)
+[<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day21)
