@@ -62,3 +62,6 @@ Completed: **0 / 24** (0%)
 *  Day 18 — Password Generator
 [<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day18)
 [<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day18)
+*  Day 19 — Sign-up form with validation
+[<img alt="CSS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](2021/css/day19)
+[<img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](2021/js/day19)
