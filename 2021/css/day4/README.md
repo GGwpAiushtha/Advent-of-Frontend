@@ -4,14 +4,25 @@ In this project, we're going to create a computer keyboard.
 
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this would be a great way to push yourself.
 
-# **Users should be able to:**
+**Users should be able to:**
 
 - See the computer keyboard centered on the page
 - A random letter will start to jiggle.
 - The user should type the same key that's jiggling and it will stop.
 - A new, random key will start jiggling
 
-**Need some support on this challenge?** Join the [Learn Build Teach](http://learnbuildteach.com) Discord community. We have a separate channel set up specifically for the Advent of CSS.
+## **Need some support on this challenge?**
+
+- Upgrade to the [Solution Tier](http://adventofcss.com). You'll get a video explanation from Amy.
+- Join the [Learn Build Teach Discord](http://learnbuildteach.com) community. We have a separate channel set up specifically for the Advent of JavaScript.
+
+# **Getting Started**
+
+1. To get started, download the files. They includes all the project assets you need to get started: Figma file, images, and a style guide.
+2. Take a look around. Look at the project's Figma file. This is a great way to see how the pieces and parts should look within the browser.
+3. Customize your project/file architecture to your liking.
+4. Happy coding!
+5. Once you're finished, share your work using **#adventofcss**
 
 # **Taking your Project to the Next Level**
 

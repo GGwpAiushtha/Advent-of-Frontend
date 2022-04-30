@@ -1,8 +1,8 @@
-# Advent Of Frontend
+# Advent of Frontend
 
 [Advent of CSS](https://www.adventofcss.com/) and [Advent of JS](https://www.adventofjs.com/) is an Advent calendar of small CSS and JavaScript challenges.
 
-This is a repo containing materials and my solutions to [Amy Dutton's](https://twitter.com/selfteachme) **Advent of CSS** and [James Q Quick's](https://twitter.com/jamesqquick) **Advent of JavaScript**.
+This is a repo containing materials to [Amy Dutton's](https://twitter.com/selfteachme) **Advent of CSS** and [James Q Quick's](https://twitter.com/jamesqquick) **Advent of JavaScript**.
 
 ## 2021 Challenges List
 

@@ -1,29 +1,30 @@
 # Brief
 
+In this project, we're going to create expanding and collapsing sections. This functionality can be found in accordions or toggle displays.
+
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this might be a great way to push yourself.
 
 ![expander-collapser.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/622d92d4-1423-42f6-bd3d-8e40a0f5a536/expander-collapser.png)
 
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this might be a great way to push yourself.
 
-## Users should be able to:
+**Users should be able to:**
 
 - Click on a collapsed question to expand it and view the answer.
 - Click on a collapsed answer to collapse it and hide the answer.
 
-## Need some support on this challenge?
+## **Need some support on this challenge?**
 
-- Upgrade to the [Solution Tier](http://adventofjs.com). You'll get a video explanation from James.
-- Join the [Learn Build Teach](http://learnbuildteach.com/) Discord community. We have a separate channel set up specifically for the Advent of JavaScript.
+- Upgrade to the [Solution Tier](http://adventofcss.com). You'll get a video explanation from Amy.
+- Join the [Learn Build Teach Discord](http://learnbuildteach.com) community. We have a separate channel set up specifically for the Advent of JavaScript.
 
-# Getting Started
+# **Getting Started**
 
-1. To get started, download the zip file (within the appropriate section of Podia). This includes all the project assets you need to get started: HTML, CSS, images, and fonts.
-2. Take a look around. Look at the project's Figma file and/or the source HTML and CSS files. This is a great way to see how the pieces and parts should look within the browser.
-3. Open the project's README.md file. It has additional information on how the project is structured.
-4. Customize your project/file architecture to your liking.
-5. Happy coding!
-6. Once you're finished, share your work using **#adventofjs**
+1. To get started, download the files. They includes all the project assets you need to get started: Figma file, images, and a style guide.
+2. Take a look around. Look at the project's Figma file. This is a great way to see how the pieces and parts should look within the browser.
+3. Customize your project/file architecture to your liking.
+4. Happy coding!
+5. Once you're finished, share your work using **#adventofjs**
 
 # Taking your Project to the Next Level
 

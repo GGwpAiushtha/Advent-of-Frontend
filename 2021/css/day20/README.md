@@ -4,7 +4,7 @@ In this project, we're creating a Tabbed Component.
 
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this might be a great way to push yourself.
 
-## Users should be able to:
+**Users should be able to:**
 
 - See a list of 7 [Compressed.fm](http://Compressed.fm) episodes in the sidebar
   - For each episode, you should see the episode number and title
@@ -66,19 +66,18 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 - **cover:** cover\_\_episode-33.png
 - **link:** https://www.compressed.fm/episode/33
 
-## Need some support on this challenge?
+## **Need some support on this challenge?**
 
 - Upgrade to the [Solution Tier](http://adventofcss.com). You'll get a video explanation from Amy.
-- Join the [Learn Build Teach](http://learnbuildteach.com/) Discord community. We have a separate channel set up specifically for the Advent of JavaScript.
+- Join the [Learn Build Teach Discord](http://learnbuildteach.com) community. We have a separate channel set up specifically for the Advent of JavaScript.
 
-# Getting Started
+# **Getting Started**
 
-1. To get started, [download the zip file](https://store.selfteach.me/products/home). This includes all the project assets you need to get started: Figma file, images, and a style guide.
+1. To get started, download the files. They includes all the project assets you need to get started: Figma file, images, and a style guide.
 2. Take a look around. Look at the project's Figma file. This is a great way to see how the pieces and parts should look within the browser.
-3. Open the project's README.md file. It has additional information on how the project is structured.
-4. Customize your project/file architecture to your liking.
-5. Happy coding!
-6. Once you're finished, share your work using **#adventofjs**
+3. Customize your project/file architecture to your liking.
+4. Happy coding!
+5. Once you're finished, share your work using **#adventofcss**
 
 # Taking your Project to the Next Level
 

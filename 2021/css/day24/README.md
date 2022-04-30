@@ -4,7 +4,7 @@ In this project, we're going to create a table of data.
 
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this would be a great way to push yourself.
 
-# **Users should be able to:**
+**Users should be able to:**
 
 - Display 10 entries of data preloaded into **app.js**
 - Sort columns ascending or descending by ID, Name, Email Address, and Job Title
@@ -14,19 +14,18 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 - The user can jump to a specific page by changing the number in the pagination text field (bottom right). Data is updated as soon as the user clicks off the input (blur).
 - The total number of results is displayed (bottom left).
 
-# **Need some support on this challenge?**
+## **Need some support on this challenge?**
 
 - Upgrade to the [Solution Tier](http://adventofcss.com). You'll get a video explanation from Amy.
 - Join the [Learn Build Teach Discord](http://learnbuildteach.com) community. We have a separate channel set up specifically for the Advent of JavaScript.
 
 # **Getting Started**
 
-1. To get started, [download the zip file](https://store.selfteach.me/products/home). This includes all the project assets you need to get started: Figma file, images, and a style guide.
+1. To get started, download the files. They includes all the project assets you need to get started: Figma file, images, and a style guide.
 2. Take a look around. Look at the project's Figma file. This is a great way to see how the pieces and parts should look within the browser.
-3. Open the project's `README.md` file. It has additional information on how the project is structured.
-4. Customize your project/file architecture to your liking.
-5. Happy coding!
-6. Once you're finished, share your work using **#adventofcss**
+3. Customize your project/file architecture to your liking.
+4. Happy coding!
+5. Once you're finished, share your work using **#adventofcss**
 
 # **Taking your Project to the Next Level**
 
